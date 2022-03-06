@@ -11,7 +11,7 @@
 - :school: I am a `First Year Student` at Nova Scotia Community College, Halifax, Nova Scotia
 - :technologist: I love using Software and programming as solutions to solve `Problems`
 - :student: I’m currently learning: `IT Programming` and `Software Development`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://www.armandkaufmann.com/s/Armand_Kaufmann_Resume.pdf).
+- :thinking: I’m currently open for: `An Internship/Co-Op/Work-Term` or a new `job opportunity`, this is [MY RESUME](https://www.armandkaufmann.com/s/Armand_Kaufmann_Resume.pdf).
 - :nerd_face: Always `learning new things` - Curious about `many things`
 
 <br>
@@ -33,8 +33,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 	<a href="mailto:armandkaufmann@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="github.com/armandkaufmann"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.armandkaufmann.com/"><img src="https://img.shields.io/badge/-My%20Website-yellow" alt="MyWebsite"/></a>
+	<a href="https://github.com/armandkaufmann"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.armandkaufmann.com/"><img src="https://img.shields.io/badge/MyWebsite-%FF9900.svg?style=plastic&logo=MyWebsite&logoColor=white" alt="MyWebsite"/></a>
 	<a href="https://www.linkedin.com/in/armand-kaufmann/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
@@ -88,19 +88,13 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+	  &emsp;
+    <a href="#"><img alt="Qt" src="https://img.shields.io/badge/-qt-41CD52?style=plastic&logo=qt&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
