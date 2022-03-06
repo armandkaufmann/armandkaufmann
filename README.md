@@ -32,9 +32,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:armandkaufmann@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/armandkaufmann"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.armandkaufmann.com/"><img src="https://img.shields.io/badge/MyWebsite-%FF9900.svg?style=plastic&logo=MyWebsite&logoColor=white" alt="MyWebsite"/></a>
+	<a href="mailto:armandkaufmann@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/armandkaufmann"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.armandkaufmann.com/"><img src="https://img.shields.io/badge/My%20Website-%FF9900.svg?style=plastic&logo=MyWebsite&logoColor=white" alt="MyWebsite"/></a>
 	<a href="https://www.linkedin.com/in/armand-kaufmann/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
@@ -86,19 +86,19 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/Geeks%20for%20Geeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 &emsp;
-    <a href="#"><img alt="Qt" src="https://img.shields.io/badge/qt-41CD52?style=plastic&logo=qt&logoColor=white"></a>
+    <a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=plastic&logo=qt&logoColor=white"></a>
 &emsp;
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"></a>
 &emsp;
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -107,20 +107,20 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/JetBrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
 	  &emsp;
     <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=plastic&logo=MariaDB&logoColor=white"></a>
 		  &emsp;
-    <a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/microsoftsqlserver-CC2927.svg?style=plastic&logo=microsoftsqlserver&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=plastic&logo=microsoftsqlserver&logoColor=white"></a>
 </p>
 
  ### 👉 Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
-    <a href="#"><img alt = "Edabit" src="https://img.shields.io/badge/edabit-%230F9D58.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+    <a href="#"><img alt = "Edabit" src="https://img.shields.io/badge/Edabit-%230F9D58.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
 
  ### 👉 Operating Systems
