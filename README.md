@@ -9,7 +9,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a `First Year Student` at Nova Scotia Community College, Halifax, Nova Scotia
-- :technologist: I love using Software and programming as solutions to solve `Problems`
+- :technologist: I love using Software and Programming as a method to solve `Problems`
 - :student: I’m currently learning: `IT Programming` and `Software Development`.
 - :thinking: I’m currently open for: `An Internship/Co-Op/Work-Term` or a new `job opportunity`, this is [MY RESUME](https://www.armandkaufmann.com/s/Armand_Kaufmann_Resume.pdf).
 - :nerd_face: Always `learning new things` - Curious about `many things`
