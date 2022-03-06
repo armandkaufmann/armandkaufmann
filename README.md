@@ -35,7 +35,7 @@
 	<a href="mailto:armandkaufmann@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/armandkaufmann"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.armandkaufmann.com/"><img src="https://img.shields.io/badge/My%20Website-%FF9900.svg?style=plastic&logo=MyWebsite&logoColor=white" alt="MyWebsite"/></a>
-	<a href="https://www.linkedin.com/in/armand-kaufmann/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/armand-kaufmann/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
