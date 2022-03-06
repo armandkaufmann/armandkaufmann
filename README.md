@@ -9,7 +9,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a `First Year Student` at Nova Scotia Community College, Halifax, Nova Scotia
-- :technologist: I love using Software and programming as a solution to solve `Problem`
+- :technologist: I love using Software and programming as solutions to solve `Problems`
 - :student: I’m currently learning: `IT Programming` and `Software Development`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://www.armandkaufmann.com/s/Armand_Kaufmann_Resume.pdf).
 - :nerd_face: Always `learning new things` - Curious about `many things`
@@ -35,7 +35,7 @@
 	<a href="mailto:armandkaufmann@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="github.com/armandkaufmann"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.armandkaufmann.com/"><img src="https://img.shields.io/badge/-My%20Website-yellow" alt="MyWebsite"/></a>
-	<a href="www.linkedin.com/in/armand-kaufmann"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/armand-kaufmann/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
@@ -111,9 +111,9 @@
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
 	  &emsp;
-    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-0078d7.svg?style=plastic&logo=MariaDB&logoColor=white"></a>
+    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=plastic&logo=MariaDB&logoColor=white"></a>
 		  &emsp;
-    <a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/microsoftsqlserver-0078d7.svg?style=plastic&logo=microsoftsqlserver&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/microsoftsqlserver-CC2927.svg?style=plastic&logo=microsoftsqlserver&logoColor=white"></a>
 </p>
 
  ### 👉 Competitive Programming & Problem Solving
@@ -122,7 +122,7 @@
   &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
-    <a href="#"><img alt = "Edabit" src="https://img.shields.io/badge/edabit-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+    <a href="#"><img alt = "Edabit" src="https://img.shields.io/badge/edabit-%230F9D58.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
 
  ### 👉 Operating Systems
