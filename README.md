@@ -93,8 +93,12 @@
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-	  &emsp;
-    <a href="#"><img alt="Qt" src="https://img.shields.io/badge/-qt-41CD52?style=plastic&logo=qt&logoColor=white"></a>
+&emsp;
+    <a href="#"><img alt="Qt" src="https://img.shields.io/badge/qt-41CD52?style=plastic&logo=qt&logoColor=white"></a>
+&emsp;
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white"></a>
+&emsp;
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
