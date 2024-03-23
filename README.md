@@ -8,7 +8,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a Software Developer at [Vehikl](https://github.com/vehikl)
+- 💻: I am currently a Software Developer at [Vehikl](https://github.com/vehikl)
 
 <br>
 
