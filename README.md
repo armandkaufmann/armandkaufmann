@@ -6,12 +6,6 @@
 
 <br>
 
-
-## :sassy_man:  About me
-- 💻: I am currently a Software Developer at [Vehikl](https://github.com/vehikl)
-
-<br>
-
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=armandkaufmann&theme=algolia" alt="7oSkaaa" /></p>
 
