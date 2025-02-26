@@ -3,9 +3,6 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=armandkaufmann&theme=algolia" alt="7oSkaaa" /></p>
 
-<br>
-<br>
-
 
 ## 👀 My Competitive Programming Profiles
 
